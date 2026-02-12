@@ -20,6 +20,83 @@
     <td>IEEE ROBOTICS AND AUTOMATION LETTERS</td>
     <td>2024</td>
   </tr>
+  <tr>
+    <td>DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving</td>
+    <td><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Xu_DriveGPT4-V2_Harnessing_Large_Language_Model_Capabilities_for_Enhanced_Closed-Loop_Autonomous_CVPR_2025_paper.html">Paper</a></td>
+    <td></td>
+    <td>CVPR</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>  
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr> 
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>  
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>  
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>  
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>  
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>  
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr> 
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>  
+  <tr>
+    <td>##</td>
+    <td><a href="##">Paper</a></td>
+    <td><a href="##">Code</a></td>
+    <td>##</td>
+    <td>##</td>
+  </tr>
 
 </tbody>
 </table>
