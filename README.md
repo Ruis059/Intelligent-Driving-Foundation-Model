@@ -16,7 +16,7 @@
   <tr>
     <td>Drivegpt4: Interpretable end-to-end autonomous driving via large language model</td>
     <td><a href="https://ieeexplore.ieee.org/abstract/document/10629039">Paper</a></td>
-    <td>https://cloud.tsinghua.edu.cn/d/adbc8fa3a2fc420ca7bc/</td>
+    <td><a href="https://cloud.tsinghua.edu.cn/d/adbc8fa3a2fc420ca7bc/">Code</a></td>
     <td>IEEE ROBOTICS AND AUTOMATION LETTERS</td>
     <td>2024</td>
   </tr>
